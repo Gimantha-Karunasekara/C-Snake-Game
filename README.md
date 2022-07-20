@@ -2,12 +2,12 @@
 
 ## Simple snake game made using C89
 
-###Features:
+### Features:
 * 	Food goal
 * 	Load snake from file
 *  *Unbeatable* feature (Won't loose the game)
 
-###Steps to run:
+### Steps to run:
 1. run makefile
 			
 		$ make
