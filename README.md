@@ -18,3 +18,7 @@
 		
 		Ex:
 		$ ./snake snake.txt 10
+		
+1. Provide UNBEATABLE=1 in make command for *Unbeatable* feature
+
+		$ make UBEATABLE=1
