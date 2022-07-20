@@ -10,7 +10,7 @@
 ### Steps to run:
 1. run makefile
 			
-		$ make
+		make
 		
 1. Execute by providing snake file and food goal
 	
