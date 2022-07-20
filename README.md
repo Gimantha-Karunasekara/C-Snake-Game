@@ -14,11 +14,11 @@
 		
 1. Execute by providing snake file and food goal
 	
-		$ ./snake <filename> <food goal>
+		./snake <filename> <food goal>
 		
 		Ex:
-		$ ./snake snake.txt 10
+		./snake snake.txt 10
 		
 1. Provide UNBEATABLE=1 in make command for *Unbeatable* feature
 
-		$ make UBEATABLE=1
+		make UNBEATABLE=1
